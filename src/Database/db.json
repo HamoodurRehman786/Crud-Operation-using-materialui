@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": "ali",
+      "username": "sadpara",
+      "email": "alisadpara@gmail.com",
+      "phone": "03084874665",
+      "id": 2
+    },
+    {
+      "name": "Sarbuto",
+      "username": "Sarbuto",
+      "email": "alisadpara@gmail.com",
+      "phone": "03084874487",
+      "id": 3
+    },
+    {
+      "name": "Leanne Graham",
+      "username": "Sarbuto",
+      "email": "xyz@gmail.com",
+      "phone": "111-1111-111",
+      "id": 4
+    },
+    {
+      "name": "kashan",
+      "username": "zaid",
+      "email": "kashan@gmail.com",
+      "phone": "03084874487",
+      "id": 5
+    },
+    {
+      "name": "Silas",
+      "username": "Declan",
+      "email": "ahmad@gmail.com",
+      "phone": "03084874487",
+      "id": 6
+    },
+    {
+      "name": "Junaid",
+      "username": "Bari",
+      "email": "junaid@gmail.com",
+      "phone": "03084874487",
+      "id": 7
+    },
+    {
+      "name": "Waseem",
+      "username": "Ali",
+      "email": "waseem@gmail.com",
+      "phone": "03084874487",
+      "id": 8
+    },
+    {
+      "name": "zeeshan",
+      "username": "rokhri",
+      "email": "xyz@gmail.com",
+      "phone": "03234575485",
+      "id": 9
+    },
+    {
+      "name": "Ahmad",
+      "username": "rokhri",
+      "email": "xrrrrryz@gmail.com",
+      "phone": "0308487448",
+      "id": 10
+    },
+    {
+      "name": "ali",
+      "username": "Sarbuto",
+      "email": "xyz@gmail.com",
+      "phone": "03234575485",
+      "id": 11
+    }
+  ]
+}
